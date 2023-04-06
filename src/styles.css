@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.date-stl{
+  width: 357px;
+  height: 0%;
+}
+.number-stl {
+  width: 357px;
+  margin-left: 12px;
+  height: 43.2px;
+}

@@ -1,0 +1,34 @@
+h5 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
+label {
+    color: white;
+}
+input {
+    background-color: white;
+}
+select {
+    background-color: white;
+}
+.btn-next {
+  color: white;
+}
+.date-stl{
+  width: 357px;
+  height: 0%;
+}
+.number-stl {
+  width: 357px;
+  margin-left: 12px;
+  margin-right: 12px;
+  height: 43.2px;
+}
